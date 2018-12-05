@@ -1,0 +1,10 @@
+
+{
+	"DATA_SERVER":"tcp://data.quantos.org:8910",
+	"TRADE_SERVER":"tcp://gw.quantos.org:8901",
+	"USER_ID":"18643110124",
+	"TOKEN":"eyJhbGciOiJIUzI1NiJ9.eyJjcmVhdGVfdGltZSI6IjE1MTI2MDc0Nzc1MjMiLCJpc3MiOiJhdXRoMCIsImlkIjoiMTg2NDMxMTAxMjQifQ.oWm0g3Rs6psTDWxHty6MW5KOHBKZowc5S8vciWEhhfE",
+	"DEFAULT_STRATEGYID":0,
+	"FORMAT":"pandas",
+	"ISOK":"0,"
+}
